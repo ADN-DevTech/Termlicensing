@@ -1,0 +1,2 @@
+C:\cases\vs2013\Termlicensing\Termlicensing\bin\Debug\ServiceConfiguration.cscfg
+C:\cases\vs2013\Termlicensing\Termlicensing\bin\Debug\ServiceDefinition.csdef
